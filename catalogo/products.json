@@ -1,0 +1,479 @@
+[
+  {
+    "id": "tabriz-royal",
+    "slug": "tabriz-royal-blu-notte",
+    "title": "Tabriz Royal Blu Notte",
+    "language": "it",
+    "category": "Tappeto classico",
+    "materials": [
+      "Lana",
+      "Seta"
+    ],
+    "material": "Lana, Seta",
+    "availability": "Disponibile",
+    "widthCm": 250,
+    "lengthCm": 350,
+    "dimensions": "350 x 250 cm",
+    "origin": "Tabriz",
+    "description": "Disegno classico a medaglione con palette profonda, ideale per salotti importanti o studi eleganti.",
+    "longDescription": "Un tappeto di gusto classico pensato per ambienti importanti, con un disegno a medaglione che richiama la tradizione persiana e una palette intensa che dona profondita' allo spazio.",
+    "alt": "Tappeto persiano classico esposto in negozio",
+    "tags": [
+      "Annodato a mano",
+      "Salotto",
+      "Collezione classica"
+    ],
+    "coverImage": "../images/tappeti-persiani-verona-mobile.webp",
+    "gallery": [
+      "../images/tappeti-persiani-verona-mobile.webp",
+      "../images/tappeti-verona-restauro-mobile.webp"
+    ],
+    "seoTitle": "Tabriz Royal Blu Notte | Tappeto Persiano a Verona | Shahmansouri",
+    "seoDescription": "Scopri Tabriz Royal Blu Notte: tappeto persiano classico in lana e seta, selezionato da Shahmansouri a Verona.",
+    "priceOnRequest": false,
+    "priceValue": null,
+    "salePriceValue": null,
+    "salePriceNote": "",
+    "salePriceStart": "",
+    "salePriceEnd": "",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": ""
+  },
+  {
+    "id": "runner-herati",
+    "slug": "runner-herati-rubino",
+    "title": "Runner Herati Rubino",
+    "category": "",
+    "material": "Lana",
+    "availability": "Disponibile",
+    "widthCm": 85,
+    "lengthCm": 290,
+    "dimensions": "290 x 85 cm",
+    "origin": "Herati",
+    "price": "Fascia media",
+    "description": "Runner vivace per corridoi e ingressi, pensato per dare ritmo e calore agli spazi di passaggio.",
+    "longDescription": "Una proposta adatta a corridoi e ingressi, con un carattere deciso ma equilibrato. Le proporzioni lo rendono adatto a percorsi stretti e ambienti di collegamento.",
+    "alt": "Runner persiano con motivi tradizionali",
+    "tags": [
+      "Ingresso",
+      "Corridoio",
+      "Motivo floreale"
+    ],
+    "coverImage": "../images/tappeti-verona-restauro-mobile.webp",
+    "gallery": [
+      "../images/tappeti-verona-restauro-mobile.webp",
+      "../images/tappeti-persiani-verona-mobile.webp"
+    ],
+    "seoTitle": "Runner Herati Rubino | Runner Persiano a Verona | Shahmansouri",
+    "seoDescription": "Runner persiano Herati Rubino in lana, ideale per corridoi e ingressi. Selezione Shahmansouri a Verona.",
+    "materials": [
+      "Lana"
+    ]
+  },
+  {
+    "id": "nain-light",
+    "slug": "nain-avorio-seta",
+    "title": "Nain Avorio Seta",
+    "category": "Tappeto classico",
+    "material": "Seta",
+    "availability": "Su richiesta",
+    "widthCm": 170,
+    "lengthCm": 240,
+    "dimensions": "240 x 170 cm",
+    "origin": "Nain",
+    "price": "Su preventivo",
+    "description": "Tappeto luminoso e raffinato, adatto a contesti formali o ambienti con arredi chiari.",
+    "longDescription": "Un tappeto dal tono chiaro e dalla presenza raffinata, pensato per interni eleganti, stanze di rappresentanza o zone della casa che richiedono leggerezza visiva.",
+    "alt": "Tappeto chiaro in lavorazione artigianale",
+    "tags": [
+      "Seta",
+      "Ambienti chiari",
+      "Elegante"
+    ],
+    "coverImage": "../images/lavaggio-restauro-tappeti-verona-mobile.webp",
+    "gallery": [
+      "../images/lavaggio-restauro-tappeti-verona-mobile.webp",
+      "../images/tappeti-persiani-verona-mobile.webp"
+    ],
+    "seoTitle": "Nain Avorio Seta | Tappeto Persiano in Seta | Shahmansouri",
+    "seoDescription": "Nain Avorio Seta: tappeto persiano luminoso in seta, ideale per ambienti eleganti e arredi chiari.",
+    "materials": [
+      "Seta"
+    ]
+  },
+  {
+    "id": "kilim-sumak",
+    "slug": "kilim-sumak-terra",
+    "title": "Kilim Sumak Terra",
+    "category": "",
+    "material": "Lana",
+    "availability": "In arrivo",
+    "widthCm": 205,
+    "lengthCm": 305,
+    "dimensions": "305 x 205 cm",
+    "origin": "Sumak",
+    "price": "Fascia media",
+    "description": "Texture materica e tono caldo, perfetto per interni contemporanei che cercano autenticita'.",
+    "longDescription": "Un kilim dal carattere materico e sincero, capace di portare calore e ritmo in ambienti contemporanei senza perdere il legame con la tradizione tessile.",
+    "alt": "Kilim persiano dai toni caldi",
+    "tags": [
+      "Contemporaneo",
+      "Texture",
+      "Zona living"
+    ],
+    "coverImage": "../images/tappeti-persiani-verona-mobile.webp",
+    "gallery": [
+      "../images/tappeti-persiani-verona-mobile.webp",
+      "../images/tappeti-verona-restauro-mobile.webp"
+    ],
+    "seoTitle": "Kilim Sumak Terra | Kilim Persiano a Verona | Shahmansouri",
+    "seoDescription": "Kilim Sumak Terra in lana, dal tono caldo e materico, selezionato da Shahmansouri a Verona.",
+    "materials": [
+      "Lana"
+    ]
+  },
+  {
+    "id": "contemporary-loft",
+    "slug": "loft-persiano-sabbia",
+    "title": "Loft Persiano Sabbia",
+    "category": "",
+    "material": "Lana",
+    "availability": "Disponibile",
+    "widthCm": 240,
+    "lengthCm": 340,
+    "dimensions": "340 x 240 cm",
+    "origin": "Produzione contemporanea",
+    "price": "Fascia media",
+    "description": "Una lettura contemporanea del tappeto persiano, con segni piu' aperti e tono neutro.",
+    "longDescription": "Pensato per ambienti moderni, questo tappeto unisce la sensibilita' contemporanea a una base artigianale, con tonalita' neutre facili da integrare.",
+    "alt": "Tappeto contemporaneo in ambiente showroom",
+    "tags": [
+      "Minimal",
+      "Living",
+      "Toni neutri"
+    ],
+    "coverImage": "../images/tappeti-verona-restauro-mobile.webp",
+    "gallery": [
+      "../images/tappeti-verona-restauro-mobile.webp",
+      "../images/tappeti-persiani-verona-mobile.webp"
+    ],
+    "seoTitle": "Loft Persiano Sabbia | Tappeto Contemporaneo | Shahmansouri",
+    "seoDescription": "Loft Persiano Sabbia: tappeto contemporaneo in lana, dai toni neutri, pensato per interni moderni.",
+    "materials": [
+      "Lana"
+    ]
+  },
+  {
+    "id": "khatam-box",
+    "slug": "scatola-khatam-isfahan",
+    "title": "Scatola Khatam Isfahan",
+    "category": "Oggetto decorativo",
+    "material": "",
+    "availability": "Disponibile",
+    "widthCm": 18,
+    "lengthCm": 28,
+    "dimensions": "28 x 18 cm",
+    "origin": "Isfahan",
+    "price": "Idea regalo",
+    "description": "Oggetto artigianale in intarsio Khatam, adatto a regali o angoli d'appoggio ricercati.",
+    "longDescription": "Una scatola decorativa in intarsio Khatam che racconta il gusto dell'artigianato persiano. Ideale come oggetto da regalo o come dettaglio prezioso in casa.",
+    "alt": "Oggetto in intarsio Khatam persiano",
+    "tags": [
+      "Regalo",
+      "Intarsio",
+      "Piccolo formato"
+    ],
+    "coverImage": "../images/intarsio-persiano-khatam-mobile.webp",
+    "gallery": [
+      "../images/intarsio-persiano-khatam-mobile.webp",
+      "../images/Ceramica-Persiana-Verona-mobile.webp"
+    ],
+    "seoTitle": "Scatola Khatam Isfahan | Artigianato Persiano | Shahmansouri",
+    "seoDescription": "Scatola Khatam Isfahan in legno intarsiato, oggetto decorativo persiano selezionato da Shahmansouri.",
+    "materials": []
+  },
+  {
+    "id": "ceramica-lapis",
+    "slug": "piatto-ceramica-lapis",
+    "title": "Piatto Ceramica Lapis",
+    "category": "Oggetto decorativo",
+    "material": "Ceramica",
+    "availability": "Disponibile",
+    "widthCm": 32,
+    "lengthCm": 32,
+    "dimensions": "32 x 32 cm",
+    "origin": "Iran",
+    "price": "Idea regalo",
+    "description": "Ceramica decorativa da parete o da appoggio, con motivi persiani e smalto brillante.",
+    "longDescription": "Piatto in ceramica decorativa con motivi ispirati alla tradizione persiana, pensato per pareti, librerie o appoggi che richiedono un dettaglio distintivo.",
+    "alt": "Piatto di ceramica persiana decorata",
+    "tags": [
+      "Ceramica",
+      "Decorazione",
+      "Blu lapislazzulo"
+    ],
+    "coverImage": "../images/Ceramica-Persiana-Verona-mobile.webp",
+    "gallery": [
+      "../images/Ceramica-Persiana-Verona-mobile.webp",
+      "../images/intarsio-persiano-khatam-mobile.webp"
+    ],
+    "seoTitle": "Piatto Ceramica Lapis | Ceramica Persiana | Shahmansouri",
+    "seoDescription": "Piatto Ceramica Lapis con motivi persiani e finitura brillante, selezione artigianale Shahmansouri.",
+    "materials": [
+      "Ceramica"
+    ]
+  },
+  {
+    "id": "runner-garden",
+    "slug": "runner-garden-verde-salvia",
+    "title": "Runner Garden Verde Salvia",
+    "category": "",
+    "material": "Lana, seta",
+    "availability": "In arrivo",
+    "widthCm": 78,
+    "lengthCm": 265,
+    "dimensions": "265 x 78 cm",
+    "origin": "Qom",
+    "price": "Fascia medio-alta",
+    "description": "Runner leggero alla vista, pensato per collegare ambienti con una nota delicata e preziosa.",
+    "longDescription": "Un runner dal tono delicato e raffinato, ideale per zone di passaggio che richiedono eleganza senza appesantire lo spazio.",
+    "alt": "Runner persiano dai toni verdi",
+    "tags": [
+      "Passaggi stretti",
+      "Palette soft",
+      "Qom"
+    ],
+    "coverImage": "../images/tappeti-persiani-verona-mobile.webp",
+    "gallery": [
+      "../images/tappeti-persiani-verona-mobile.webp",
+      "../images/tappeti-verona-restauro-mobile.webp"
+    ],
+    "seoTitle": "Runner Garden Verde Salvia | Runner Persiano Qom | Shahmansouri",
+    "seoDescription": "Runner Garden Verde Salvia in lana e seta, ispirazione Qom, pensato per passaggi eleganti e delicati.",
+    "materials": [
+      "Lana",
+      "seta"
+    ]
+  },
+  {
+    "id": "kazak",
+    "slug": "kazak",
+    "title": "KAZAK",
+    "language": "it",
+    "category": "",
+    "materials": [
+      "Cotone",
+      "Lana"
+    ],
+    "material": "Cotone, Lana",
+    "availability": "Disponibile",
+    "widthCm": 205,
+    "lengthCm": 300,
+    "dimensions": "300 x 205 cm",
+    "origin": "Caucaso",
+    "price": "1900",
+    "description": "Kazak che viene dal caucaso",
+    "longDescription": "Kazak antico 1880",
+    "alt": "Tappeto caucasico Kazak",
+    "tags": [
+      "Tappeto",
+      "Caucasico",
+      "Annodato a mano"
+    ],
+    "coverImage": "products/media/kazak-1.webp",
+    "gallery": [
+      "products/media/kazak-1.webp"
+    ],
+    "seoTitle": "Tappeto Kazak",
+    "seoDescription": "Tappeto Caucasico antico",
+    "priceOnRequest": false,
+    "priceValue": 3100,
+    "salePriceValue": null,
+    "salePriceNote": "",
+    "salePriceStart": "",
+    "salePriceEnd": "",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": ""
+  },
+  {
+    "id": "tappeto",
+    "slug": "tappeto",
+    "title": "tappeto 29",
+    "language": "it",
+    "category": "classico",
+    "materials": [
+      "Lana"
+    ],
+    "material": "Lana",
+    "availability": "Disponibile",
+    "widthCm": 260,
+    "lengthCm": 320,
+    "dimensions": "320 x 260 cm",
+    "origin": "Tabriz",
+    "price": "Fascia Alta",
+    "description": "bellissimo tapeto",
+    "longDescription": "tappeto",
+    "alt": "test",
+    "tags": [
+      "tag"
+    ],
+    "coverImage": "products/media/ceramica-persiana-verona-mobile.webp",
+    "gallery": [
+      "products/media/ceramica-persiana-verona-mobile.webp",
+      "products/media/intarsio-persiano-khatam-mobile.webp",
+      "products/media/lavaggio-restauro-tappeti-verona-mobile.webp",
+      "products/media/tappeti-persiani-verona-mobile.webp",
+      "products/media/tappeti-verona-restauro-mobile.webp"
+    ],
+    "seoTitle": "test",
+    "seoDescription": "test",
+    "priceOnRequest": false,
+    "priceValue": 3000,
+    "salePriceValue": 2500,
+    "salePriceNote": "promo primavera",
+    "salePriceStart": "2026-04-16",
+    "salePriceEnd": "2026-04-17",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": "Tabriz 001"
+  },
+  {
+    "id": "nain",
+    "slug": "nain",
+    "title": "Nain",
+    "language": "it",
+    "category": "Tappeto",
+    "materials": [
+      "Cotone",
+      "Lana"
+    ],
+    "material": "Cotone, Lana",
+    "availability": "Disponibile",
+    "widthCm": 200,
+    "lengthCm": 250,
+    "dimensions": "250 x 200 cm",
+    "origin": "Nain",
+    "description": "Nain 6la",
+    "longDescription": "Fine Nain trama e ordito cotone firmato",
+    "alt": "Tappeto Bianco",
+    "tags": [
+      "Nain",
+      "Lana",
+      "Seta"
+    ],
+    "coverImage": "products/media/intarsio-persiano-khatam-mobile-2.webp",
+    "gallery": [
+      "products/media/intarsio-persiano-khatam-mobile-2.webp"
+    ],
+    "seoTitle": "Nain Bianco",
+    "seoDescription": "Fine nain dai toni freddi",
+    "priceOnRequest": false,
+    "priceValue": 3000,
+    "salePriceValue": null,
+    "salePriceNote": "",
+    "salePriceStart": "",
+    "salePriceEnd": "",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": "Nain 0001"
+  },
+  {
+    "id": "test",
+    "slug": "test",
+    "title": "TEST",
+    "language": "it",
+    "category": "classico",
+    "materials": [
+      "Cotone",
+      "Lana"
+    ],
+    "material": "Cotone, Lana",
+    "availability": "TEST",
+    "widthCm": 140,
+    "lengthCm": 200,
+    "dimensions": "200 x 140 cm",
+    "origin": "TEST",
+    "description": "TEST",
+    "longDescription": "TEST",
+    "alt": "TEST",
+    "tags": [
+      "TEST"
+    ],
+    "coverImage": "products/media/5e79a61d-c661-4183-89ba-bf5d65cfd9f3.jpg",
+    "gallery": [
+      "products/media/5e79a61d-c661-4183-89ba-bf5d65cfd9f3.jpg"
+    ],
+    "seoTitle": "TEST",
+    "seoDescription": "TEST",
+    "priceOnRequest": false,
+    "priceValue": 5000,
+    "salePriceValue": 4000,
+    "salePriceNote": "PROMO TEST",
+    "salePriceStart": "",
+    "salePriceEnd": "",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": ""
+  },
+  {
+    "id": "zigler",
+    "slug": "zigler",
+    "title": "Zigler",
+    "language": "it",
+    "category": "Tappeto Contemporaneo",
+    "materials": [
+      "Cotone",
+      "Lana"
+    ],
+    "material": "Cotone, Lana",
+    "availability": "Disponibile",
+    "widthCm": 0.8,
+    "lengthCm": 1.24,
+    "dimensions": "1,24 x 0,8 cm",
+    "origin": "Pakistan",
+    "description": "Tappeto Zigler contemporaneo di Lana con base di cotone proveniente dal Pakistan",
+    "longDescription": "Tappeto Zigler contemporaneo di Lana con base di cotone proveniente dal Pakistan, toni azzurri con molti simbologie stilizzate. il tappeto è molto luminoso adatto per ambienti con assenza di molta luce.",
+    "alt": "Tappeto Azzurro Con simboli stilizzati",
+    "tags": [
+      "Zigler",
+      "Azzurro",
+      "Tappeto"
+    ],
+    "coverImage": "products/media/tappeto-azzurro-moderno-verona-zigler-shahmansouri-2.png",
+    "gallery": [
+      "products/media/tappeto-azzurro-moderno-verona-zigler-shahmansouri-2.png",
+      "products/media/tappeto-azzurro-moderno-verona-zigler.webp"
+    ],
+    "seoTitle": "Tappeto Azzurro",
+    "seoDescription": "Tappeto Azzurro con animali stilizzati",
+    "priceOnRequest": false,
+    "priceValue": 700,
+    "salePriceValue": 560,
+    "salePriceNote": "Promozione 2026",
+    "salePriceStart": "",
+    "salePriceEnd": "",
+    "currency": "EUR",
+    "merchantAvailability": "in_stock",
+    "condition": "new",
+    "brand": "Shahmansouri",
+    "gtin": "",
+    "mpn": "Zigler001"
+  }
+]
